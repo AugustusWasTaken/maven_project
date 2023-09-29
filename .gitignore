@@ -1,0 +1,33 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+/.idea_modules
+
+# Maven
+/target/
+*/target/
+mvn_trace.log
+dependency-reduced-pom.xml
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# macOS Finder
+.DS_Store
+
+# Editor backup files
+*~
+.*~
+
+#compiled
+*.class
+
+#packages
+*.jar
+*.rar
+*.tar
+*.zip
